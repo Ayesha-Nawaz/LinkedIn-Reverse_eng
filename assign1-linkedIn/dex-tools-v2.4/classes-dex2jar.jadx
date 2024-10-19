@@ -1,0 +1,123 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "classes-dex2jar"
+  ],
+  "treeExpansions": [
+    [
+      "Source code",
+      "classes-dex2jar"
+    ],
+    [
+      "android",
+      "Source code",
+      "classes-dex2jar"
+    ],
+    [
+      "app",
+      "android",
+      "Source code",
+      "classes-dex2jar"
+    ],
+    [
+      "android.app.AppOpsManager$OnOpNotedCallback",
+      "app",
+      "android",
+      "Source code",
+      "classes-dex2jar"
+    ],
+    [
+      "graphics",
+      "android",
+      "Source code",
+      "classes-dex2jar"
+    ],
+    [
+      "array",
+      "Source code",
+      "classes-dex2jar"
+    ],
+    [
+      "array.JoinToString",
+      "array",
+      "Source code",
+      "classes-dex2jar"
+    ],
+    [
+      "proto.com.linkedin.common",
+      "Source code",
+      "classes-dex2jar"
+    ],
+    [
+      "proto.com.linkedin.common.AccessControlDefaultRoleUrn",
+      "proto.com.linkedin.common",
+      "Source code",
+      "classes-dex2jar"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "_COROUTINE.ArtificialStackFrames",
+      "subPath": "java",
+      "caret": 90,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "android.app.AppOpsManager$OnOpNotedCallback",
+      "subPath": "java",
+      "caret": 111,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "android.app.ForegroundServiceStartNotAllowedException",
+      "subPath": "java",
+      "caret": 160,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "proto.com.linkedin.common.AccessControlDefaultRoleUrn",
+      "subPath": "java",
+      "caret": 4625,
+      "view": {
+        "x": 0,
+        "y": 1040
+      },
+      "active": true
+    },
+    {
+      "type": "class",
+      "tabPath": "array.JoinToString",
+      "subPath": "java",
+      "caret": 752,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false
+    }
+  ],
+  "cacheDir": "C:\\Users\\Ayesha\\AppData\\Local\\skylot\\jadx\\cache\\projects\\classes-dex2jar-8a90b890a078e993a7d53c8c1c416fff",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "pluginOptions": {}
+}
